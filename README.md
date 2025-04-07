@@ -2,7 +2,6 @@
 
 <!--
 **Nordi2/Nordi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe frameborder="0" src="https://itch.io/embed/3452843?linkback=true&amp;bg_color=333533&amp;fg_color=FFD700&amp;link_color=FFD700&amp;border_color=FFD700" width="552" height="167"><a href="https://igorchek.itch.io/dot-rescue">Dot Rescue by Igorchek</a></iframe>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe frameborder="0" src="https://itch.io/embed/3452843?linkback=true&amp;bg_color=333533&amp;fg_color=FFD700&amp;link_color=FFD700&amp;border_color=FFD700" width="552" height="167"><a href="https://igorchek.itch.io/dot-rescue">Dot Rescue by Igorchek</a></iframe>
+https://igorchek.itch.io/dot-rescue
