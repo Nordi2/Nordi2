@@ -10,9 +10,26 @@
   - https://itch.io/game/widget/3452843
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="DotRescue" style="width: 256px;">
+  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="DotRescue" style="width: 512px;">
 </div>
- 
+
+[![Логотип игры](https://i.ibb.co/4ntSnwsG/Dot-Rescue.png)](https://igorchek.itch.io/dot-rescue)
+
+[<img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Игра" width="512">](https://igorchek.itch.io/dot-rescue)
+
+<a href="https://igorchek.itch.io/dot-rescue" target="_blank">
+  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Описание" width="400">
+</a>
+
+[![Обложка игры](https://i.ibb.co/4ntSnwsG/Dot-Rescue.png)](https://igorchek.itch.io/dot-rescue)  
+**Название игры** — захватывающий платформер с уникальной механикой!
+
+<p align="center">
+  <a href="https://igorchek.itch.io/dot-rescue">
+    <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Центрированная картинка" width="500">
+  </a>
+</p>
+
 ### [Название Игры 2](https://ваш-ник.itch.io/игра2)
 [![Игра 2](https://img.itch.zone/aW1n/7654321/screenshot.png)](https://ваш-ник.itch.io/игра2)
 - **Награды**: Лучший инди-проект 2023
