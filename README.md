@@ -1,7 +1,7 @@
 ## 🕹️ Мои игры
 
-### [Dot Rescue]([https://ваш-ник.itch.io/игра1](https://github.com/Nordi2/DotRescue/tree/main)
-[<img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Игра" width="750" height="169" >](https://igorchek.itch.io/dot-rescue)
+### [Dot Rescue](https://github.com/Nordi2/DotRescue/tree/main)
+[<img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Игра" width="554" height="169" >](https://igorchek.itch.io/dot-rescue)
 
 ### [Название Игры 2](https://ваш-ник.itch.io/игра2)
 [![Игра 2](https://img.itch.zone/aW1n/7654321/screenshot.png)](https://ваш-ник.itch.io/игра2)
