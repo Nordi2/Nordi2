@@ -8,8 +8,11 @@
   - Система прокачки персонажа
   - 50+ уровней сложности
   - https://itch.io/game/widget/3452843
- 
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="DotRescue" style="width: 256px;">
+</div>
+ 
 ### [Название Игры 2](https://ваш-ник.itch.io/игра2)
 [![Игра 2](https://img.itch.zone/aW1n/7654321/screenshot.png)](https://ваш-ник.itch.io/игра2)
 - **Награды**: Лучший инди-проект 2023
