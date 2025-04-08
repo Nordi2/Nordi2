@@ -18,7 +18,7 @@
 [<img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Игра" width="512">](https://igorchek.itch.io/dot-rescue)
 
 <a href="https://igorchek.itch.io/dot-rescue" target="_blank">
-  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Описание" width="400">
+  <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Описание" width="400" height = 500>
 </a>
 
 [![Обложка игры](https://i.ibb.co/4ntSnwsG/Dot-Rescue.png)](https://igorchek.itch.io/dot-rescue)  
@@ -29,6 +29,9 @@
     <img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Центрированная картинка" width="500">
   </a>
 </p>
+
+
+<iframe frameborder="0" src="https://itch.io/embed/3452843?linkback=true&amp;border_width=2&amp;bg_color=333533&amp;fg_color=FFD700&amp;link_color=FFD700&amp;border_color=FFD700" width="554" height="169"><a href="https://igorchek.itch.io/dot-rescue">Dot Rescue by Igorchek</a></iframe>
 
 ### [Название Игры 2](https://ваш-ник.itch.io/игра2)
 [![Игра 2](https://img.itch.zone/aW1n/7654321/screenshot.png)](https://ваш-ник.itch.io/игра2)
