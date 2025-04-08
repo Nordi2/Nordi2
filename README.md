@@ -1,12 +1,3 @@
-<h1 align="center">
-  🎮 Привет, я [Ваше Имя]! 
-  <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="50">
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47a1f5&width=435&lines=Game+Developer+%F0%9F%8E%AE;Unity+%7C+C%23+%7C+Blender;Люблю+создавать+игры+с+душой" alt="Типография" />
-</p>
-
 ---
 
 ## 🕹️ Мои игры
