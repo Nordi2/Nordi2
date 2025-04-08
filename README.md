@@ -1,5 +1,3 @@
-# More
-
 ## 🕹️ Мои игры
 
 [<img src="https://i.ibb.co/4ntSnwsG/Dot-Rescue.png" alt="Игра" width="554" height="169" >](https://igorchek.itch.io/dot-rescue)
